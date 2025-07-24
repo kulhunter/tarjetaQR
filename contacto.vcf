@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Tampassi;Andrés;;;
+FN:Andrés Tampassi
+ORG:Agencia Caramba
+TITLE: Founder
+TEL;TYPE=CELL,VOICE;PREF=1:(+56) 9 8765 4321
+TEL;TYPE=WORK,VOICE:(+56) 2 2580 6000
+EMAIL;TYPE=PREF,INTERNET:atampassi@agenciacaramba.cl
+URL:https://www.agenciacaramba.cl
+ADR;TYPE=WORK:;;Av. Apoquindo 5950;Las Condes;Santiago;;7580600;Chile
+NOTE:Contacto agregado vía QR.
+END:VCARD
